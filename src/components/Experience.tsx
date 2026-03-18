@@ -27,7 +27,7 @@ const items = [
   },
 ];
 
-const transition = { duration: 0.6, ease: [0.16, 1, 0.3, 1] };
+const transition = { duration: 0.6, ease: [0.16, 1, 0.3, 1] as const };
 
 export default function Experience() {
   return (
