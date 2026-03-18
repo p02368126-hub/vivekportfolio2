@@ -11,7 +11,7 @@ export default function Footer() {
           <a href="https://linkedin.com/in/vivekabhiram" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors duration-300">
             <Linkedin size={20} />
           </a>
-          <a href="mailto:23211a66f3@gmail.com" className="text-muted-foreground hover:text-foreground transition-colors duration-300">
+          <a href="mailto:vivekabhiram18@gmail.com" className="text-muted-foreground hover:text-foreground transition-colors duration-300">
             <Mail size={20} />
           </a>
         </div>

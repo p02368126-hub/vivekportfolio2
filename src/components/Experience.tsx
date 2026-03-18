@@ -2,6 +2,12 @@ import { motion } from "framer-motion";
 
 const items = [
   {
+    role: "Salesforce Certified Agentforce Specialist",
+    org: "Salesforce",
+    date: "2024",
+    details: "Successfully completed certification requirements.",
+  },
+  {
     role: "B.Tech in CS (AI & ML)",
     org: "B V Raju Institute of Technology",
     date: "2023 — 2027",
